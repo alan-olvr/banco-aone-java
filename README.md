@@ -119,7 +119,7 @@ banco-aone-java/
     │   ├── InvalidValueException.java
     │   └── InvalidDataAccountException.java
     ├── util/
-    ├── InterfaceMenu.java -> Menus e interação com o usuário
+    │   ├──InterfaceMenu.java -> Menus e interação com o usuário
     └── Main.java                   -> Ponto de entrada da aplicação
 ```
 
