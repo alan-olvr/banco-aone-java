@@ -1,10 +1,10 @@
 # 🏦 Conta Bancária
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue?style=flat-square&logo=java)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-black?style=flat-square&logo=intellijidea)
-![POO](https://img.shields.io/badge/Paradigma-POO-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-yellow?style=flat-square)
-![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0-purple?style=flat-square)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![POO](https://img.shields.io/badge/Paradigma-POO-%23ED8B00?style=flat-square&logo=coffeescript&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-yellow?style=flat-square)](#)
+[![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0-purple?style=flat-square)](#)
 
 > O **Banco AOne** é um projeto da minha trilha de estudos em **Java**, desenvolvido com o objetivo de consolidar os fundamento da Programação Orientada a Objetos.
 > A aplicação, executada no console, simula um sistema bancário com conta corrente e conta poupança: o usuário escolhe o tipo de conta, realiza depósitos e saques, 
