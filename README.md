@@ -1,4 +1,4 @@
-# 🏦 Conta Bancária
+# 🏦 AOne Bank
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-yellow?style=flat-square)](#)
 [![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0-purple?style=flat-square)](#)
 
-> O **Banco AOne** é um projeto da minha trilha de estudos em **Java**, desenvolvido com o objetivo de consolidar os fundamento da Programação Orientada a Objetos.
+> O **AOne Bank** é um projeto da minha trilha de estudos em **Java**, desenvolvido com o objetivo de consolidar os fundamento da Programação Orientada a Objetos.
 > A aplicação, executada no console, simula um sistema bancário com conta corrente e conta poupança: o usuário escolhe o tipo de conta, realiza depósitos e saques, 
 > consulta o extrato e, na poupança, acompanha o rendimento acumulado.
 > O foco não é a interface, e sim o **desenho do domínio**: hierarquia de classes, polimorfismo, validação de dados, tratamento de exceções personalizadas, encapsulamento e separação de responsabilidades, pensados desde o início para receber persistência em banco de dados e uma API no futuro.
