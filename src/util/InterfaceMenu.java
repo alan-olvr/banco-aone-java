@@ -15,7 +15,7 @@ public class InterfaceMenu {
      */
     public void initialMenu(){
         System.out.print("============================================\n");
-        System.out.print("                BANCO AONE          \n");
+        System.out.print("                AONE BANK          \n");
         System.out.print("============================================\n");
         System.out.print("       Olá! O que deseja fazer hoje? \n");
         System.out.println();
